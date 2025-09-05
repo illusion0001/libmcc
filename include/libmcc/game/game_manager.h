@@ -231,7 +231,7 @@ namespace libmcc {
         virtual uintptr_t __fastcall sub_1401E7668() = 0;
         virtual uintptr_t __fastcall sub_1401E7684() = 0;
         virtual uintptr_t __fastcall sub_1401E7718() = 0;
-        virtual uintptr_t __fastcall sub_1401E5880() = 0;
+        virtual uintptr_t __fastcall sub_1401E5880(e_local_player player, uint32_t rgba) = 0;
         virtual uintptr_t __fastcall sub_1401E77DC() = 0;
         virtual uintptr_t __fastcall sub_1401E77C8() = 0;
         virtual uintptr_t __fastcall ___() = 0;
